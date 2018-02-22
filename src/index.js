@@ -15,13 +15,3 @@ var n1 = preferences[i], n2=preferences[n1-1], n3 = preferences[n2-1];
 }
   return count;
 };
-
-// var a = [2,3,1];
-// for (var j=0;j<a.length;j++){
-//   for(var i=0;i<a.length;i++){
-//     if(a[i] == a[i+1]){
-//     a.splice(i+1, 1);}
-//     else continue;
-// }
-// }
-//   console.log(a);
